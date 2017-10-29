@@ -7,4 +7,5 @@
 * Afrika 
 * USA 
 * Russia
+
 ![Image of Owl](/images/owl.jpg)
