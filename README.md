@@ -4,5 +4,7 @@
 1. smart
 2. night animal
 ## Mostly common in
-* Afrika * USA * Russia
+* Afrika 
+* USA 
+* Russia
 
