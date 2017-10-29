@@ -10,6 +10,6 @@
 
 ![Image of Owl](/images/owl.jpg)
 
-col A | cal B
+English | Hebrew
 ------|-------
 owl | ינשוף
