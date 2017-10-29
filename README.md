@@ -3,6 +3,6 @@
 ## important to know
 1. smart
 2. night animal
-## Mostly common
-*afrika *USA *Russia
+## Mostly common in
+* Afrika * USA * Russia
 
