@@ -9,3 +9,7 @@
 * Russia
 
 ![Image of Owl](/images/owl.jpg)
+
+col A | cal B
+------|-------
+owl | ינשוף
